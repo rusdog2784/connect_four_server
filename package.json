@@ -1,0 +1,9 @@
+{
+  "name": "socket-connect-four",
+  "version": "0.0.1",
+  "description": "CPE 490 Connect Four Server",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.4"
+  }
+}
